@@ -7,7 +7,7 @@ Class Student
 
     function _construct()
     {
-        
+
     }
 }
 
